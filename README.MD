@@ -1,4 +1,4 @@
-#Motivo do Aplicativo
+###Motivo do Aplicativo
 Na era moderna, onde a conscientização ambiental e a sustentabilidade são fundamentais, surge a necessidade de ferramentas eficazes para gerenciar e otimizar a agricultura e suas práticas correlatas. O projeto "agrinho" nasce da aspiração de facilitar a organização e o controle das atividades agrícolas, promovendo uma gestão eficiente de plantações, estoques, lucros e despesas.
 
 Este aplicativo visa oferecer uma solução abrangente para agricultores, escolas e entusiastas do meio ambiente, proporcionando uma plataforma intuitiva e acessível para monitorar todos os aspectos essenciais do ciclo agrícola. Desde o planejamento inicial das safras até a análise detalhada dos resultados financeiros, o "agrinho" se propõe a ser uma ferramenta indispensável para aqueles que buscam integrar tecnologia e sustentabilidade no campo.
