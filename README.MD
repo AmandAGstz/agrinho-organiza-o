@@ -9,5 +9,6 @@ Ao oferecer uma plataforma digital robusta e fácil de usar, o projeto "agrinho"
 
 ## Participantes
 1- Amanda Silva 
+
 2- Christian Rafael
 
