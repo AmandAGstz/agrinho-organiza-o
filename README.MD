@@ -7,4 +7,7 @@ Com funcionalidades que incluem o registro preciso de dados de cultivo, gestão 
 
 Ao oferecer uma plataforma digital robusta e fácil de usar, o projeto "agrinho" visa não apenas aumentar a eficiência operacional, mas também contribuir para um futuro sustentável, onde a agricultura ecológica e a rentabilidade econômica caminham lado a lado.
 
+## Participantes
+1- Amanda Silva 
+2- Christian Rafael
 
